@@ -22,7 +22,7 @@
 
 ## 제5조 (개인정보 안전성 확보)
 * 봇 서비스를 운영하는 서버와 개인정보를 처리하는 데이터베이스(DB) 서버로 분리되어 있으며, 각각의 서버에 대한 접근 권한은 아래와 같습니다.
-  ##### [BOT server] Discord @khs_dev (main develpoper), Discord @lae_ (server enginner) </br> [DB server] Discord @khs_dev (main develpoper)
+  ##### [BOT server] Discord @khs_dev (main develpoper), Server enginner </br> [DB server] Discord @khs_dev (main develpoper)
 * 사용자의 계정안전을 위해 매주 1회이상 보안점검계획을 수립하고 시행하고 있습니다.
 * 사용자의 계정은 호요랩 또는 인게임에서 비밀번호를 변경하실 경우 데이터값이 변경되고, 기존 DB에 저장되어 있는 값과 불일치가 발생하므로 해당 봇 서비스에서 사용할 수 없습니다. 보안에 참고하시기 바랍니다.
 
